@@ -1,0 +1,6 @@
+wheel
+tinyaes
+pyinstaller
+pyaes
+urllib3
+requests
